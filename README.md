@@ -6,7 +6,7 @@
 
 | Authors | Name | Year | Link | Review | GitHub |
 | --- | --- | --- | --- | --- | --- |
-
+| J. Hidary | Quantum Computing: An Applied Approach | 2019 | | Here | | 
 
 ## Quantum papers
 
