@@ -13,5 +13,5 @@
 
 | Authors | Name | Year | Link | Annotation | Review | GitHub |
 | --- | --- | --- | --- | :---: | :---: | --- |
-| A. Abbas *et al.* | The power of Quantum Neural Network | 2020 | | Here | | 
+| A. Abbas *et al.* | The power of Quantum Neural Network | 2020 | ArXiv | Here | Here | Here |
 
