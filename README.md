@@ -44,11 +44,12 @@
 | Shi J. *et al.* | An Approach to cryptography Based on continuous-Variable Quantum neural network | 2020 | [ePrint](https://www.nature.com/articles/s41598-020-58928-1.pdf) |
 | Sun Y. & ZengY. & Zhang T. | Quantum Superposition Spiking Neural Network | 2020 | [Arxiv](https://arxiv.org/abs/2010.12197v2) | 
 | Fastovets D. V. *et al.* | Machine learning methods in quantum computing theory | 2019 | [Arxiv](https://arxiv.org/pdf/1906.10175.pdf) |
-| Rebentrost P. *et al.* | Quantum gradient descent and Newton’s method for constrained polynomial optimization | 2019 | [ePrint](https://iopscience.iop.org/article/10.1088/1367-2630/ab2a9e/pdf) |
 | Killoran N. *et al.* | Continuous-variable quantum neural networks | 2019 | [ePrint](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.1.033063) |
-| | | 2019 | [Arxiv]() |
-| | | 2019 | [Arxiv]() |
-
+| Rebentrost P. *et al.* | Quantum gradient descent and Newton’s method for constrained polynomial optimization | 2019 | [ePrint](https://iopscience.iop.org/article/10.1088/1367-2630/ab2a9e/pdf) |
+| Jeswal S. K. & Chakraverty S. | Recent Developments and Applications in Quantum Neural Network: A Review | 2018 | [Arxiv](https://www.researchgate.net/profile/Sumit_Jeswal/publication/324936022_Recent_Developments_and_Applications_in_Quantum_Neural_Network_A_Review/links/5c1f8b6c458515a4c7f395ac/Recent-Developments-and-Applications-in-Quantum-Neural-Network-A-Review.pdf) |
+| Kopczyk D. | Quantum machine learning for data scientists | 2018 | [Arxiv](https://arxiv.org/pdf/1804.10068.pdf) |
+| | | 2018 | [Arxiv]() |
+| Schuld M. & Killoran N. | Quantum machine learning in feature Hilbert spaces | 2018 | [Arxiv](https://arxiv.org/pdf/1803.07128.pdf) |
 
 
 ## Quantum Thesis 
