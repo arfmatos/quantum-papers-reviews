@@ -34,6 +34,7 @@
 | Wei S. *et al.* | A Quantum Convolutional Neural Network on NISQ Devices | 2021 | [Arxiv](https://arxiv.org/pdf/2104.06918.pdf) | 
 | Zhang Y. & Ni Q.| Recent Advances in Quantum Machine Learning | 2021 | [ePrint](https://eprints.lancs.ac.uk/id/eprint/154554/1/QML_survey.pdf) | 
 | Abbas A. *et al.* | The power of Quantum Neural Network | 2020 | [ArXiv](https://arxiv.org/abs/2011.00027) |  |  |  | ⭐⭐⭐⭐⭐ |
+| Beer K. *et al.* | Training deep quantum neural networks | 2020 | [ePrint](https://www.nature.com/articles/s41467-020-14454-2.pdf) |
 | Garg S. & Ramakrishnan G. | Advances in Quantum Deep Learning: An Overview | 2020 | [Arxiv](https://arxiv.org/pdf/2005.04316.pdf) |
 | Jiang J. *et al.* | Generalization Study of Quantum Neural Network | 2020 | [Arxiv](https://arxiv.org/pdf/2006.02388.pdf) |
 | Kulkarni V. & Nulkarni M. & Pant A. | Quantum Computing Methods for Supervised Learning | 2020 | [Arxiv](https://arxiv.org/pdf/2006.12025.pdf) |
@@ -41,7 +42,6 @@
 | Mari A. *et al.*| Transfer learning in hybrid classical-quantum neural networks | 2020 | [ePrint](https://quantum-journal.org/papers/q-2020-10-09-340/pdf/) | 
 | Shi J. *et al.* | An Approach to cryptography Based on continuous-Variable Quantum neural network | 2020 | [ePrint](https://www.nature.com/articles/s41598-020-58928-1.pdf) |
 | Sun Y. & ZengY. & Zhang T. | Quantum Superposition Spiking Neural Network | 2020 | [Arxiv](https://arxiv.org/abs/2010.12197v2) | 
-| | | 2020 | [Arxiv]() |
 | | | 2020 | [Arxiv]() |
 
 
