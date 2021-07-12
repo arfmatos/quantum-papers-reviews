@@ -6,7 +6,7 @@
 
 
 | Authors | Name | Year | Link | Review | GitHub | Appreciation |
-| --- | --- | --- | --- | :---: | --- | --- | 
+| --- | --- | :---: | :---: | :---: | :---: | :---: | 
 | Loredo R. | Learn Quantum Computing with Python and IBM Quantum Experience: A hands-on introduction to quantum computing and writing your own quantum programs with Python | 2020 | [Here](https://www.amazon.ca/Quantum-Computing-Python-Experience-hands/dp/1838981004) | | [Here](https://github.com/PacktPublishing/Learn-Quantum-Computing-with-Python-and-IBM-Quantum-Experience) | ⭐⭐⭐⭐⭐ |
 | Hidary J. | Quantum Computing: An Applied Approach | 2019 | [Here](https://www.amazon.com/Quantum-Computing-Approach-Jack-Hidary-ebook/dp/B07X7NDFLZ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) | | [Here](https://github.com/JackHidary/quantumcomputingbook) | ⭐⭐⭐⭐⭐ |
 | Sutor R. | Dancing with Qubits: How quantum computing works and how it can change the world | 2019 | [Here](https://www.amazon.ca/Dancing-Qubits-quantum-computing-change/dp/1838827366) | | | ⭐⭐⭐⭐⭐ |
@@ -19,7 +19,7 @@
 ## Quantum papers
 
 | Authors | Name | Year | Link | Annotation | Review | GitHub | Appreciation |
-| --- | --- | --- | --- | :---: | :---: | --- | --- | 
+| --- | --- | :---: | :---: | :---: | :---: | :---: | :---: | 
 | Bondesan R. & Welling M. | The Hintons in your Neural Network: a Quantum Field Theory View of Deep Learning | 2021 | [Arxiv](https://arxiv.org/abs/2103.04913v1) | 
 | Ezhov A. A. | On quantum neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2104.07106.pdf) | 
 | Preskill J. | Quantum computing 40 years later | 2021 | [Arxiv](https://arxiv.org/pdf/2106.10522.pdf) | | | | ⭐⭐⭐⭐⭐ |
@@ -29,7 +29,7 @@
 ## Quantum Thesis 
 
 | Authors | Name | Year | Link | Annotation | Review | GitHub | Appreciation |
-| --- | --- | --- | --- | :---: | :---: | --- | --- | 
+| --- | --- | :---: | :---: | :---: | :---: | :---: | :---: | 
 | Wossnig L. P. | Quantum Machine Learning For Classical Data | 2021 | [Arxiv](https://arxiv.org/pdf/2105.03684.pdf) | 
 
 ## Further resources
