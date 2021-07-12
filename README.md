@@ -38,12 +38,13 @@
 | Garg S. & Ramakrishnan G. | Advances in Quantum Deep Learning: An Overview | 2020 | [Arxiv](https://arxiv.org/pdf/2005.04316.pdf) |
 | Jiang J. *et al.* | Generalization Study of Quantum Neural Network | 2020 | [Arxiv](https://arxiv.org/pdf/2006.02388.pdf) |
 | Kulkarni V. & Nulkarni M. & Pant A. | Quantum Computing Methods for Supervised Learning | 2020 | [Arxiv](https://arxiv.org/pdf/2006.12025.pdf) |
+| Lamata L. | Quantum machine learning and quantum biomimetics: A perspective | 2020 | [ePrint](https://iopscience.iop.org/article/10.1088/2632-2153/ab9803/pdf) |
 | Llyod L. *et al.*| Quantum embeddings for machine learning | 2020 | [Arxiv](https://arxiv.org/pdf/2001.03622.pdf) | 
 | Mari A. *et al.*| Transfer learning in hybrid classical-quantum neural networks | 2020 | [ePrint](https://quantum-journal.org/papers/q-2020-10-09-340/pdf/) | 
 | Shi J. *et al.* | An Approach to cryptography Based on continuous-Variable Quantum neural network | 2020 | [ePrint](https://www.nature.com/articles/s41598-020-58928-1.pdf) |
 | Sun Y. & ZengY. & Zhang T. | Quantum Superposition Spiking Neural Network | 2020 | [Arxiv](https://arxiv.org/abs/2010.12197v2) | 
-| | | 2020 | [Arxiv]() |
-| Lamata L. | Quantum machine learning and quantum biomimetics: A perspective | 2020 | [ePrint](https://iopscience.iop.org/article/10.1088/2632-2153/ab9803/pdf) |
+| Fastovets D. V. *et al.* | Machine learning methods in quantum computing theory | 2019 | [Arxiv](https://arxiv.org/pdf/1906.10175.pdf) |
+| | | 2019 | [Arxiv]() |
 
 
 
