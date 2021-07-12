@@ -52,6 +52,7 @@
 | Schuld M. & Killoran N. | Quantum machine learning in feature Hilbert spaces | 2018 | [Arxiv](https://arxiv.org/pdf/1803.07128.pdf) |
 | Ciliberto C. *et al.*| Quantum machine learning: a classical perspective | 2017 | [Arxiv](https://arxiv.org/pdf/1707.08561v2.pdf) |
 | Biamonte J. *et al.* | Quantum Machine Learning | 2016 | [Arxiv](https://arxiv.org/pdf/1611.09347.pdf) |
+| Aaronson S. | Quantum Machine Learning Algorithms: Read the Fine Print | 2015 | [ePrint](https://www.scottaaronson.com/papers/qml.pdf) |
 | Hao Low G. & Yoder T. J. & Chuang I. | Quantum Inference on Bayesian Networks | 2014 | [Arxiv](https://arxiv.org/pdf/1402.7359.pdf) |
 | Schuld M. & Sinayskiy I. & Petruccione F. | Simulating a perceptron on a quantum computer | 2014 | [Arxiv](https://arxiv.org/abs/1412.3635) |
 | Schuld M. & Sinayskiy I. & Petruccione F. | The quest for a Quantum Neural Network | 2014 | [Arxiv](https://arxiv.org/pdf/1408.7005.pdf) | 
@@ -59,8 +60,7 @@
 | Sagheer A. & Zidan M. | Autonomous Quantum Perceptron Neural Network | 2013 | [Arxiv](https://arxiv.org/abs/1312.4149v1) | 
 | Nguyen N. H. & Behrman E. C. & Steck J. E. | Quantum Learning with Noise and Decoherence: A Robust Quantum Neural Network | 2010 | [Arxiv](https://arxiv.org/pdf/1612.07593.pdf) |
 | Ricks B. & Ventura D. | Training a Quantum Neural Network | 2003 | [Arxiv](https://axon.cs.byu.edu/Dan/papers/ricks2003nips.pdf) |
-
-| | | 2010 | [Arxiv]() |
+| Altaisky M.V. | Quantum neural network | 2001 | [Arxiv](https://arxiv.org/pdf/quant-ph/0107012.pdf) |
 
 
 
