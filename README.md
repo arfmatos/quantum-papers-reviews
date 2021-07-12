@@ -13,6 +13,7 @@
 | Schuld M. & Petruccione F. | Supervised Learning with Quantum Computers | 2018 | [Here](https://ndl.ethernet.edu.et/bitstream/123456789/73371/1/320.pdf) | 
 | Chuang I. and Nielsen M. | Quantum Computation and Quantum Information, 10th anniversary | 2016 | [Here](https://www.cambridge.org/jp/academic/subjects/physics/quantum-physics-quantum-information-and-quantum-computation/quantum-computation-and-quantum-information-10th-anniversary-edition?format=HB&isbn=9781107002173#BBFv83H3ofgcgG3A.97) | | [Here](https://github.com/goropikari/SolutionQCQINielsenChuang) | 
 | Susskind L. & Friedman A. | Quantum Mechanics: The Theoretical Minimum | 2015 | [Here](https://www.amazon.ca/Quantum-Mechanics-Theoretical-Leonard-Susskind/dp/0465062903) | | | ⭐⭐⭐⭐⭐ |
+| Wittek P. | Quantum Machine Learning | 2014 | [ePrint](https://www.researchgate.net/profile/Peter-Wittek/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining/links/5ababcfba6fdcc71647085db/Quantum-Machine-Learning-What-Quantum-Computing-Means-to-Data-Mining.pdf) | 
 
 
 
@@ -52,7 +53,10 @@
 | Ciliberto C. *et al.*| Quantum machine learning: a classical perspective | 2017 | [Arxiv](https://arxiv.org/pdf/1707.08561v2.pdf) |
 | Biamonte J. *et al.* | Quantum Machine Learning | 2016 | [Arxiv](https://arxiv.org/pdf/1611.09347.pdf) |
 | Schuld M. & Sinayskiy I. & Petruccione F. | Simulating a perceptron on a quantum computer | 2014 | [Arxiv](https://arxiv.org/abs/1412.3635) |
+| Hao Low G. & Yoder T. J. & Chuang I. | Quantum Inference on Bayesian Networks | 2014 | [Arxiv](https://arxiv.org/pdf/1402.7359.pdf) |
+| | | 2014 | [Arxiv]() | 
 
+Guang Hao Low, Theodore J. Yoder, Isaac L. Chuang
 
 ## Quantum Thesis 
 
