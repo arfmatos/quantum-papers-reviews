@@ -7,7 +7,7 @@
 
 | Authors | Name | Year | Link | Review | GitHub |
 | --- | --- | --- | --- | :---: | --- |
-| R. Loredo | Learn Quantum Computing with Python and IBM Quantum Experience: A hands-on introduction to quantum computing and writing your own quantum programs with Python | 2020 | [Here](https://www.amazon.ca/Quantum-Computing-Python-Experience-hands/dp/1838981004) | | | [Here](https://github.com/PacktPublishing/Learn-Quantum-Computing-with-Python-and-IBM-Quantum-Experience) | 
+| R. Loredo | Learn Quantum Computing with Python and IBM Quantum Experience: A hands-on introduction to quantum computing and writing your own quantum programs with Python | 2020 | [Here](https://www.amazon.ca/Quantum-Computing-Python-Experience-hands/dp/1838981004) | | [Here](https://github.com/PacktPublishing/Learn-Quantum-Computing-with-Python-and-IBM-Quantum-Experience) | 
 | J. Hidary | Quantum Computing: An Applied Approach | 2019 | | Here | | 
 | I. Chuang and M. Nielsen | Quantum computation and Quantum Information, 10th anniversary | 2016 | | | | 
 
