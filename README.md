@@ -34,6 +34,8 @@
 | Wei S. *et al.* | A Quantum Convolutional Neural Network on NISQ Devices | 2021 | [Arxiv](https://arxiv.org/pdf/2104.06918.pdf) | 
 | Zhang Y. & Ni Q.| Recent Advances in Quantum Machine Learning | 2021 | [ePrint](https://eprints.lancs.ac.uk/id/eprint/154554/1/QML_survey.pdf) | 
 | Abbas A. *et al.* | The power of Quantum Neural Network | 2020 | [ArXiv](https://arxiv.org/abs/2011.00027) |  |  |  | ⭐⭐⭐⭐⭐ |
+| Sun Y. & ZengY. & Zhang T. | Quantum Superposition Spiking Neural Network | 2020 | [Arxiv](https://arxiv.org/abs/2010.12197v2) | 
+
 
 ## Quantum Thesis 
 
