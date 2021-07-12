@@ -20,6 +20,7 @@
 
 | Authors | Name | Year | Link | Annotation | Review | GitHub | Appreciation |
 | --- | --- | :---: | :---: | :---: | :---: | :---: | :---: | 
+| Ban Y. *et al.* | Developments of Neural Networks in Quantum Physics | 2021 | [Arxiv](https://arxiv.org/pdf/2105.13273.pdf) | 
 | Bondesan R. & Welling M. | The Hintons in your Neural Network: a Quantum Field Theory View of Deep Learning | 2021 | [Arxiv](https://arxiv.org/abs/2103.04913v1) | 
 | Ezhov A. A. | On quantum neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2104.07106.pdf) | 
 | Preskill J. | Quantum computing 40 years later | 2021 | [Arxiv](https://arxiv.org/pdf/2106.10522.pdf) | | | | ⭐⭐⭐⭐⭐ |
