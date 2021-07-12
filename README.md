@@ -20,6 +20,7 @@
 
 | Authors | Name | Year | Link | Annotation | Review | GitHub | Appreciation |
 | --- | --- | --- | --- | :---: | :---: | --- | --- | 
+| Schuld M. | Supervised quantum machine learning models are kernel methods | 2021 | [Arxiv](https://arxiv.org/abs/2101.11020) | 
 | Abbas A. *et al.* | The power of Quantum Neural Network | 2020 | [ArXiv](https://arxiv.org/abs/2011.00027) |  |  |  | ⭐⭐⭐⭐⭐ |
 
 ## Further resources
