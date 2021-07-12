@@ -24,6 +24,7 @@
 | Ezhov A. A. | On quantum neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2104.07106.pdf) | 
 | Preskill J. | Quantum computing 40 years later | 2021 | [Arxiv](https://arxiv.org/pdf/2106.10522.pdf) | | | | ⭐⭐⭐⭐⭐ |
 | Schuld M. | Supervised quantum machine learning models are kernel methods | 2021 | [Arxiv](https://arxiv.org/abs/2101.11020) | 
+| Qian Y. *et al.* | The dilemma of quantum neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2106.04975.pdf) | 
 | Abbas A. *et al.* | The power of Quantum Neural Network | 2020 | [ArXiv](https://arxiv.org/abs/2011.00027) |  |  |  | ⭐⭐⭐⭐⭐ |
 
 ## Quantum Thesis 
