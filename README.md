@@ -37,6 +37,7 @@
 | Garg S. & Ramakrishnan G. | Advances in Quantum Deep Learning: An Overview | 2020 | [Arxiv](https://arxiv.org/pdf/2005.04316.pdf) |
 | Jiang J. *et al.* | Generalization Study of Quantum Neural Network | 2020 | [Arxiv](https://arxiv.org/pdf/2006.02388.pdf) |
 | Kulkarni V. & Nulkarni M. & Pant A. | Quantum Computing Methods for Supervised Learning | 2020 | [Arxiv](https://arxiv.org/pdf/2006.12025.pdf) |
+| Mari A. *et al.*| Transfer learning in hybrid classical-quantum neural networks | 2020 | [ePrint](https://quantum-journal.org/papers/q-2020-10-09-340/pdf/) | 
 | Sun Y. & ZengY. & Zhang T. | Quantum Superposition Spiking Neural Network | 2020 | [Arxiv](https://arxiv.org/abs/2010.12197v2) | 
 | | | 2020 | [Arxiv]() |
 
