@@ -56,6 +56,8 @@
 | Schuld M. & Sinayskiy I. & Petruccione F. | Simulating a perceptron on a quantum computer | 2014 | [Arxiv](https://arxiv.org/abs/1412.3635) |
 | Schuld M. & Sinayskiy I. & Petruccione F. | The quest for a Quantum Neural Network | 2014 | [Arxiv](https://arxiv.org/pdf/1408.7005.pdf) | 
 | Schuld M. & Sinayskiy I. & Petruccione F. | An introduction to quantum machine learning | 2014 | [Arxiv](https://arxiv.org/pdf/1409.3097.pdf) | 
+| Sagheer A. & Zidan M. | Autonomous Quantum Perceptron Neural Network | 2013 | [Arxiv](https://arxiv.org/abs/1312.4149v1) | 
+
 
 
 ## Quantum Thesis 
