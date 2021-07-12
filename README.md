@@ -57,6 +57,10 @@
 | Schuld M. & Sinayskiy I. & Petruccione F. | The quest for a Quantum Neural Network | 2014 | [Arxiv](https://arxiv.org/pdf/1408.7005.pdf) | 
 | Schuld M. & Sinayskiy I. & Petruccione F. | An introduction to quantum machine learning | 2014 | [Arxiv](https://arxiv.org/pdf/1409.3097.pdf) | 
 | Sagheer A. & Zidan M. | Autonomous Quantum Perceptron Neural Network | 2013 | [Arxiv](https://arxiv.org/abs/1312.4149v1) | 
+| Nguyen N. H. & Behrman E. C. & Steck J. E. | Quantum Learning with Noise and Decoherence: A Robust Quantum Neural Network | 2010 | [Arxiv](https://arxiv.org/pdf/1612.07593.pdf) |
+| Ricks B. & Ventura D. | Training a Quantum Neural Network | 2003 | [Arxiv](https://axon.cs.byu.edu/Dan/papers/ricks2003nips.pdf) |
+
+| | | 2010 | [Arxiv]() |
 
 
 
