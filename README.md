@@ -43,6 +43,7 @@
 | Shi J. *et al.* | An Approach to cryptography Based on continuous-Variable Quantum neural network | 2020 | [ePrint](https://www.nature.com/articles/s41598-020-58928-1.pdf) |
 | Sun Y. & ZengY. & Zhang T. | Quantum Superposition Spiking Neural Network | 2020 | [Arxiv](https://arxiv.org/abs/2010.12197v2) | 
 | | | 2020 | [Arxiv]() |
+| Lamata L. | Quantum machine learning and quantum biomimetics: A perspective | 2020 | [ePrint](https://iopscience.iop.org/article/10.1088/2632-2153/ab9803/pdf) |
 
 
 
