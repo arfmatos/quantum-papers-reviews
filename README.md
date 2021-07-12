@@ -17,9 +17,9 @@
 
 ## Quantum papers
 
-| Authors | Name | Year | Link | Annotation | Review | GitHub |
+| Authors | Name | Year | Link | Annotation | Review | GitHub | Appreciation |
 | --- | --- | --- | --- | :---: | :---: | --- |
-| A. Abbas *et al.* | The power of Quantum Neural Network | 2020 | ArXiv | Here | Here | Here |
+| Abbas A. *et al.* | The power of Quantum Neural Network | 2020 | [ArXiv](https://arxiv.org/abs/2011.00027) |  |  |  | ⭐⭐⭐⭐⭐ |
 
 ## Further resources
 
