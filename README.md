@@ -45,7 +45,7 @@
 | Sun Y. & ZengY. & Zhang T. | Quantum Superposition Spiking Neural Network | 2020 | [Arxiv](https://arxiv.org/abs/2010.12197v2) | 
 | Fastovets D. V. *et al.* | Machine learning methods in quantum computing theory | 2019 | [Arxiv](https://arxiv.org/pdf/1906.10175.pdf) |
 | | | 2019 | [Arxiv]() |
-
+| Rebentrost P. *et al.* | Quantum gradient descent and Newton’s method for constrained polynomial optimization | 2019 | [ePrint](https://iopscience.iop.org/article/10.1088/1367-2630/ab2a9e/pdf) |
 
 
 ## Quantum Thesis 
