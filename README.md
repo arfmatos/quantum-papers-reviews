@@ -29,6 +29,7 @@
 | Qian Y. *et al.* | The dilemma of quantum neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2106.04975.pdf) | 
 | Roget M. & Di Molfetta G. & Kadri H. | Quantum Perceptron Revisited: Computational-Statistical Tradeoffs | 2021 | [Arxiv](https://arxiv.org/pdf/2106.02496.pdf) |
 | Volkoff T. & Holmes Z. & Sornborger A. | Universal Compiling and (No-)Free-Lunch Theorems for Continuous Variable Quantum Learning | 2021 | [Arxiv](https://arxiv.org/pdf/2105.01049.pdf) | 
+| Wei S. *et al.* | A Quantum Convolutional Neural Network on NISQ Devices | 2021 | [Arxiv](https://arxiv.org/pdf/2104.06918.pdf) | 
 | Abbas A. *et al.* | The power of Quantum Neural Network | 2020 | [ArXiv](https://arxiv.org/abs/2011.00027) |  |  |  | ⭐⭐⭐⭐⭐ |
 
 ## Quantum Thesis 
