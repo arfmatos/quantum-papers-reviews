@@ -32,6 +32,7 @@
 | Tacchino F. *et al.* | Variational learning for quantum artificial neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2103.02498.pdf) |
 | Volkoff T. & Holmes Z. & Sornborger A. | Universal Compiling and (No-)Free-Lunch Theorems for Continuous Variable Quantum Learning | 2021 | [Arxiv](https://arxiv.org/pdf/2105.01049.pdf) | 
 | Wei S. *et al.* | A Quantum Convolutional Neural Network on NISQ Devices | 2021 | [Arxiv](https://arxiv.org/pdf/2104.06918.pdf) | 
+| Zhang Y. & Ni Q.| Recent Advances in Quantum Machine Learning | 2021 | [ePrint](https://eprints.lancs.ac.uk/id/eprint/154554/1/QML_survey.pdf) | 
 | Abbas A. *et al.* | The power of Quantum Neural Network | 2020 | [ArXiv](https://arxiv.org/abs/2011.00027) |  |  |  | ⭐⭐⭐⭐⭐ |
 
 ## Quantum Thesis 
