@@ -52,11 +52,11 @@
 | Schuld M. & Killoran N. | Quantum machine learning in feature Hilbert spaces | 2018 | [Arxiv](https://arxiv.org/pdf/1803.07128.pdf) |
 | Ciliberto C. *et al.*| Quantum machine learning: a classical perspective | 2017 | [Arxiv](https://arxiv.org/pdf/1707.08561v2.pdf) |
 | Biamonte J. *et al.* | Quantum Machine Learning | 2016 | [Arxiv](https://arxiv.org/pdf/1611.09347.pdf) |
-| Schuld M. & Sinayskiy I. & Petruccione F. | Simulating a perceptron on a quantum computer | 2014 | [Arxiv](https://arxiv.org/abs/1412.3635) |
 | Hao Low G. & Yoder T. J. & Chuang I. | Quantum Inference on Bayesian Networks | 2014 | [Arxiv](https://arxiv.org/pdf/1402.7359.pdf) |
-| | | 2014 | [Arxiv]() | 
+| Schuld M. & Sinayskiy I. & Petruccione F. | Simulating a perceptron on a quantum computer | 2014 | [Arxiv](https://arxiv.org/abs/1412.3635) |
+| Schuld M. & Sinayskiy I. & Petruccione F. | The quest for a Quantum Neural Network | 2014 | [Arxiv](https://arxiv.org/pdf/1408.7005.pdf) | 
+| Schuld M. & Sinayskiy I. & Petruccione F. | An introduction to quantum machine learning | 2014 | [Arxiv](https://arxiv.org/pdf/1409.3097.pdf) | 
 
-Guang Hao Low, Theodore J. Yoder, Isaac L. Chuang
 
 ## Quantum Thesis 
 
