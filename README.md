@@ -27,6 +27,7 @@
 | Bondesan R. & Welling M. | The Hintons in your Neural Network: a Quantum Field Theory View of Deep Learning | 2021 | [Arxiv](https://arxiv.org/abs/2103.04913v1) | 
 | Ezhov A. A. | On quantum neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2104.07106.pdf) | 
 | Gratsea A. & Huembeli P.| Exploring Quantum Perceptron and Quantum Neural Network structures with a teacher-student scheme | 2021 | [Arxiv](https://arxiv.org/pdf/2105.01477.pdf) | 
+| Massoli F. V. *et al.* | A Leap among Entanglement and Neural Networks: A Quantum Survey | 2021 | [Arxiv](https://arxiv.org/abs/2107.03313) | 
 | Preskill J. | Quantum computing 40 years later | 2021 | [Arxiv](https://arxiv.org/pdf/2106.10522.pdf) | | | | ⭐⭐⭐⭐⭐ |
 | Schuld M. | Supervised quantum machine learning models are kernel methods | 2021 | [Arxiv](https://arxiv.org/abs/2101.11020) | 
 | Qian Y. *et al.* | The dilemma of quantum neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2106.04975.pdf) | 
