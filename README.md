@@ -5,7 +5,7 @@
 ## Quantum books 
 
 
-| Authors | Name | Year | Link | Review | GitHub | Appreciation |
+| Authors | Title | Year | Link | Review | GitHub | Appreciation |
 | --- | --- | :---: | :---: | :---: | :---: | :---: | 
 | Kasirajan V. | Fundamentals of Quantum Computing | 2021 |  [Springer](https://www.springer.com/gp/book/9783030636883)
 | Loredo R. | Learn Quantum Computing with Python and IBM Quantum Experience: A hands-on introduction to quantum computing and writing your own quantum programs with Python | 2020 | [Amazon](https://www.amazon.ca/Quantum-Computing-Python-Experience-hands/dp/1838981004) | | [Here](https://github.com/PacktPublishing/Learn-Quantum-Computing-with-Python-and-IBM-Quantum-Experience) | ⭐⭐⭐⭐⭐ |
@@ -20,7 +20,7 @@
 
 ## Quantum papers
 
-| Authors | Name | Year | Link | Annotation | Review | GitHub | Appreciation |
+| Authors | Title | Year | Link | Annotation | Review | GitHub | Appreciation |
 | --- | --- | :---: | :---: | :---: | :---: | :---: | :---: | 
 | Ban Y. *et al.* | Developments of Neural Networks in Quantum Physics | 2021 | [Arxiv](https://arxiv.org/pdf/2105.13273.pdf) | 
 | Beer K. *et al.* | Quantum machine learning of graph-structured data | 2021 | [Arxiv](https://arxiv.org/pdf/2103.10837.pdf) | 
@@ -71,9 +71,12 @@
 
 ## Quantum Thesis 
 
-| Authors | Name | Year | Link | Annotation | Review | GitHub | Appreciation |
+| Authors | Title | Year | Link | Annotation | Review | GitHub | Appreciation |
 | --- | --- | :---: | :---: | :---: | :---: | :---: | :---: | 
 | Wossnig L. P. | Quantum Machine Learning For Classical Data | 2021 | [Arxiv](https://arxiv.org/pdf/2105.03684.pdf) | 
 
 ## Further resources
 
+| Tag | Authors | Title | Link |
+| :---: | --- | --- | :---: |
+| GitHub | fvmassoli | Survey Quantum Computation | [Here](https://github.com/fvmassoli/survey-quantum-computation/blob/master/papersSortedByTopics.md) |
