@@ -7,6 +7,7 @@
 
 | Authors | Title | Year | Link | Review | GitHub | Appreciation |
 | --- | --- | :---: | :---: | :---: | :---: | :---: | 
+| Qiskit | Qiskit Textbook (beta) | 2021 | [Online](https://qiskit.org/textbook-beta/) | ⭐⭐⭐⭐⭐ | 
 | Kasirajan V. | Fundamentals of Quantum Computing | 2021 |  [Springer](https://www.springer.com/gp/book/9783030636883)
 | Loredo R. | Learn Quantum Computing with Python and IBM Quantum Experience: A hands-on introduction to quantum computing and writing your own quantum programs with Python | 2020 | [Amazon](https://www.amazon.ca/Quantum-Computing-Python-Experience-hands/dp/1838981004) | | [Here](https://github.com/PacktPublishing/Learn-Quantum-Computing-with-Python-and-IBM-Quantum-Experience) | ⭐⭐⭐⭐⭐ |
 | Hidary J. | Quantum Computing: An Applied Approach | 2019 | [Amazon](https://www.amazon.com/Quantum-Computing-Approach-Jack-Hidary-ebook/dp/B07X7NDFLZ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) | | [Here](https://github.com/JackHidary/quantumcomputingbook) | ⭐⭐⭐⭐⭐ |
