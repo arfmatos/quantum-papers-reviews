@@ -57,7 +57,7 @@
 | Kopczyk D. | Quantum machine learning for data scientists | 2018 | [Arxiv](https://arxiv.org/pdf/1804.10068.pdf) |
 | Schuld M. & Killoran N. | Quantum machine learning in feature Hilbert spaces | 2018 | [Arxiv](https://arxiv.org/pdf/1803.07128.pdf) |
 | Ciliberto C. *et al.*| Quantum machine learning: a classical perspective | 2017 | [Arxiv](https://arxiv.org/pdf/1707.08561v2.pdf) |
-| Biamonte J. *et al.* | Quantum Machine Learning | 2016 | [Arxiv](https://arxiv.org/pdf/1611.09347.pdf) |
+| Biamonte J. *et al.* | Quantum Machine Learning | 2016 | [Arxiv](https://arxiv.org/pdf/1611.09347.pdf) | [Here](github.com/Christophe-pere/quantum-paper-reviews/articles/Biamonte_et_al._2016_quantum_machine_learning.pdf) | | | ⭐⭐⭐⭐⭐ |
 | Aaronson S. | Quantum Machine Learning Algorithms: Read the Fine Print | 2015 | [ePrint](https://www.scottaaronson.com/papers/qml.pdf) |
 | Hao Low G. & Yoder T. J. & Chuang I. | Quantum Inference on Bayesian Networks | 2014 | [Arxiv](https://arxiv.org/pdf/1402.7359.pdf) |
 | Schuld M. & Sinayskiy I. & Petruccione F. | Simulating a perceptron on a quantum computer | 2014 | [Arxiv](https://arxiv.org/abs/1412.3635) |
