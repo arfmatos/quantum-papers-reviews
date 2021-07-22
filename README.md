@@ -29,6 +29,7 @@
 | Coecke B. *et al.* | How to make qubits speak | 2021 | [Arxiv](https://arxiv.org/abs/2107.06776) | 
 | Ezhov A. A. | On quantum neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2104.07106.pdf) | 
 | Gratsea A. & Huembeli P.| Exploring Quantum Perceptron and Quantum Neural Network structures with a teacher-student scheme | 2021 | [Arxiv](https://arxiv.org/pdf/2105.01477.pdf) | 
+| Highman C. F. & Bedford A. | Quantum Deep Learning: Sampling Neural Nets with a Quantum Annealer | 2021 | [Arxiv](https://arxiv.org/abs/2107.08710v1) |
 | Massoli F. V. *et al.* | A Leap among Entanglement and Neural Networks: A Quantum Survey | 2021 | [Arxiv](https://arxiv.org/abs/2107.03313) | 
 | Preskill J. | Quantum computing 40 years later | 2021 | [Arxiv](https://arxiv.org/pdf/2106.10522.pdf) | | | | ⭐⭐⭐⭐⭐ |
 | Schuld M. | Supervised quantum machine learning models are kernel methods | 2021 | [Arxiv](https://arxiv.org/abs/2101.11020) | 
@@ -52,6 +53,7 @@
 | Fastovets D. V. *et al.* | Machine learning methods in quantum computing theory | 2019 | [Arxiv](https://arxiv.org/pdf/1906.10175.pdf) |
 | Killoran N. *et al.* | Continuous-variable quantum neural networks | 2019 | [ePrint](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.1.033063) |
 | Rebentrost P. *et al.* | Quantum gradient descent and Newton’s method for constrained polynomial optimization | 2019 | [ePrint](https://iopscience.iop.org/article/10.1088/1367-2630/ab2a9e/pdf) |
+| Tacchino F. *et al.* | An artificial neuron implemented on an actual quantum processor | 2019 | [ePrint](https://www.nature.com/articles/s41534-019-0140-4.pdf) | 
 | Bergholm V. *et al.* | PennyLane: Automatic differentiation of hybrid quantum-classical computations | 2018 | [Arxiv](https://arxiv.org/abs/1811.04968) |
 | Jeswal S. K. & Chakraverty S. | Recent Developments and Applications in Quantum Neural Network: A Review | 2018 | [Arxiv](https://www.researchgate.net/profile/Sumit_Jeswal/publication/324936022_Recent_Developments_and_Applications_in_Quantum_Neural_Network_A_Review/links/5c1f8b6c458515a4c7f395ac/Recent-Developments-and-Applications-in-Quantum-Neural-Network-A-Review.pdf) |
 | Kopczyk D. | Quantum machine learning for data scientists | 2018 | [Arxiv](https://arxiv.org/pdf/1804.10068.pdf) |
