@@ -29,7 +29,7 @@
 | Coecke B. *et al.* | How to make qubits speak | 2021 | [Arxiv](https://arxiv.org/abs/2107.06776) | 
 | Ezhov A. A. | On quantum neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2104.07106.pdf) | 
 | Gratsea A. & Huembeli P.| Exploring Quantum Perceptron and Quantum Neural Network structures with a teacher-student scheme | 2021 | [Arxiv](https://arxiv.org/pdf/2105.01477.pdf) | 
-| Highman C. F. & Bedford A. | Quantum Deep Learning: Sampling Neural Nets with a Quantum Annealer | 2021 | [Arxiv](https://arxiv.org/abs/2107.08710v1) |
+| Highman C. F. & Bedford A. | Quantum Deep Learning: Sampling Neural Nets with a Quantum Annealer | 2021 | [Arxiv](https://arxiv.org/abs/2107.08710v1) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Higham_2021_Quantum_Deep_Learning:Sampling_Neural_Nets_with_a_Quantum_Annealer.pdf) | | | ⭐⭐ |
 | Massoli F. V. *et al.* | A Leap among Entanglement and Neural Networks: A Quantum Survey | 2021 | [Arxiv](https://arxiv.org/abs/2107.03313) | 
 | Preskill J. | Quantum computing 40 years later | 2021 | [Arxiv](https://arxiv.org/pdf/2106.10522.pdf) | | | | ⭐⭐⭐⭐⭐ |
 | Schuld M. | Supervised quantum machine learning models are kernel methods | 2021 | [Arxiv](https://arxiv.org/abs/2101.11020) | 
