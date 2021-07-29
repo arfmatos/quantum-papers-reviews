@@ -38,7 +38,6 @@
 | Tacchino F. *et al.* | Variational learning for quantum artificial neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2103.02498.pdf) |
 | Volkoff T. & Holmes Z. & Sornborger A. | Universal Compiling and (No-)Free-Lunch Theorems for Continuous Variable Quantum Learning | 2021 | [Arxiv](https://arxiv.org/pdf/2105.01049.pdf) | 
 | Wei S. *et al.* | A Quantum Convolutional Neural Network on NISQ Devices | 2021 | [Arxiv](https://arxiv.org/pdf/2104.06918.pdf) | 
-| Zhang Y. & Ni Q.| Recent Advances in Quantum Machine Learning | 2021 | [ePrint](https://eprints.lancs.ac.uk/id/eprint/154554/1/QML_survey.pdf) | 
 | Abbas A. *et al.* | The power of Quantum Neural Network | 2020 | [ArXiv](https://arxiv.org/abs/2011.00027) |  |  |  | ⭐⭐⭐⭐⭐ |
 | Beer K. *et al.* | Training deep quantum neural networks | 2020 | [ePrint](https://www.nature.com/articles/s41467-020-14454-2.pdf) |
 | Broughton M. *et al.* | TensorFlow Quantum: A Software Framework for Quantum Machine Learning | 2020 | [Arxiv](https://arxiv.org/pdf/2003.02989.pdf) | 
@@ -50,6 +49,7 @@
 | Mari A. *et al.*| Transfer learning in hybrid classical-quantum neural networks | 2020 | [ePrint](https://quantum-journal.org/papers/q-2020-10-09-340/pdf/) | 
 | Shi J. *et al.* | An Approach to cryptography Based on continuous-Variable Quantum neural network | 2020 | [ePrint](https://www.nature.com/articles/s41598-020-58928-1.pdf) |
 | Sun Y. & ZengY. & Zhang T. | Quantum Superposition Spiking Neural Network | 2020 | [Arxiv](https://arxiv.org/abs/2010.12197v2) | 
+| Zhang Y. & Ni Q.| Recent Advances in Quantum Machine Learning | 2020 | [ePrint](https://eprints.lancs.ac.uk/id/eprint/154554/1/QML_survey.pdf) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Zhang_Ni_2020_Recent_Advances_in_Quantum_Machine_Learning.pdf) | | | ⭐⭐⭐⭐⭐ | 
 | Fastovets D. V. *et al.* | Machine learning methods in quantum computing theory | 2019 | [Arxiv](https://arxiv.org/pdf/1906.10175.pdf) |
 | Killoran N. *et al.* | Continuous-variable quantum neural networks | 2019 | [ePrint](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.1.033063) |
 | Rebentrost P. *et al.* | Quantum gradient descent and Newton’s method for constrained polynomial optimization | 2019 | [ePrint](https://iopscience.iop.org/article/10.1088/1367-2630/ab2a9e/pdf) |
@@ -64,7 +64,7 @@
 | Hao Low G. & Yoder T. J. & Chuang I. | Quantum Inference on Bayesian Networks | 2014 | [Arxiv](https://arxiv.org/pdf/1402.7359.pdf) |
 | Schuld M. & Sinayskiy I. & Petruccione F. | Simulating a perceptron on a quantum computer | 2014 | [Arxiv](https://arxiv.org/abs/1412.3635) |
 | Schuld M. & Sinayskiy I. & Petruccione F. | The quest for a Quantum Neural Network | 2014 | [Arxiv](https://arxiv.org/pdf/1408.7005.pdf) | 
-| Schuld M. & Sinayskiy I. & Petruccione F. | An introduction to quantum machine learning | 2014 | [Arxiv](https://arxiv.org/pdf/1409.3097.pdf) | 
+| Schuld M. & Sinayskiy I. & Petruccione F. | An introduction to quantum machine learning | 2014 | [Arxiv](https://arxiv.org/pdf/1409.3097.pdf) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Schuld_Petruccione_2014_An_introduction_to_QML.pdf) | | | ⭐⭐⭐⭐⭐ |
 | Sagheer A. & Zidan M. | Autonomous Quantum Perceptron Neural Network | 2013 | [Arxiv](https://arxiv.org/abs/1312.4149v1) | 
 | Nguyen N. H. & Behrman E. C. & Steck J. E. | Quantum Learning with Noise and Decoherence: A Robust Quantum Neural Network | 2010 | [Arxiv](https://arxiv.org/pdf/1612.07593.pdf) |
 | Ricks B. & Ventura D. | Training a Quantum Neural Network | 2003 | [Arxiv](https://axon.cs.byu.edu/Dan/papers/ricks2003nips.pdf) |
