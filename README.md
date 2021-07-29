@@ -49,7 +49,7 @@
 | Mari A. *et al.*| Transfer learning in hybrid classical-quantum neural networks | 2020 | [ePrint](https://quantum-journal.org/papers/q-2020-10-09-340/pdf/) | 
 | Shi J. *et al.* | An Approach to cryptography Based on continuous-Variable Quantum neural network | 2020 | [ePrint](https://www.nature.com/articles/s41598-020-58928-1.pdf) |
 | Sun Y. & ZengY. & Zhang T. | Quantum Superposition Spiking Neural Network | 2020 | [Arxiv](https://arxiv.org/abs/2010.12197v2) | 
-| Zhang Y. & Ni Q.| Recent Advances in Quantum Machine Learning | 2020 | [ePrint](https://eprints.lancs.ac.uk/id/eprint/154554/1/QML_survey.pdf) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/) | | | ⭐⭐⭐⭐⭐ | 
+| Zhang Y. & Ni Q.| Recent Advances in Quantum Machine Learning | 2020 | [ePrint](https://eprints.lancs.ac.uk/id/eprint/154554/1/QML_survey.pdf) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Zhang_Ni_2020_Recent_Advances_in_Quantum_Machine_Learning.pdf) | | | ⭐⭐⭐⭐⭐ | 
 | Fastovets D. V. *et al.* | Machine learning methods in quantum computing theory | 2019 | [Arxiv](https://arxiv.org/pdf/1906.10175.pdf) |
 | Killoran N. *et al.* | Continuous-variable quantum neural networks | 2019 | [ePrint](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.1.033063) |
 | Rebentrost P. *et al.* | Quantum gradient descent and Newton’s method for constrained polynomial optimization | 2019 | [ePrint](https://iopscience.iop.org/article/10.1088/1367-2630/ab2a9e/pdf) |
