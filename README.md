@@ -1,5 +1,12 @@
 # Quantum computing, q. information and q. machine learning books and papers reviews
 
+# Content
+
+- [Quantum Books](#quantum-books)
+- [Quantum Papers](#quantum-papers)
+- [Quantum Thesis](#quantum-thesis)
+- [Further Resources](#further-resources)
+- [Courses](#courses)
 
 
 ## Quantum books 
