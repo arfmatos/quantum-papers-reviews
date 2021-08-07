@@ -90,4 +90,4 @@
 ## Courses 
 | Tag | Authors | Title | Link | Appreciation |
 | :---: | --- | --- | :---: | :---: |
-| Logic Gates | Muthukrishnan A. | Classical and Quantum Logic Gates | [ePrint](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/Courses/LogicGates.pdf) 
+| Logic Gates | Muthukrishnan A. | Classical and Quantum Logic Gates | [ePrint](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/Courses/LogicGates.pdf) | ⭐⭐⭐⭐⭐ |
