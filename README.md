@@ -88,6 +88,6 @@
 | GitHub | artix41 | Awesome Quantum ML | [Here](https://github.com/artix41/awesome-quantum-ml) | ⭐⭐⭐⭐⭐ |
 
 ## Courses 
-| Tag | Authors | Title | Link | Appreciation ¡
+| Tag | Authors | Title | Link | Appreciation |
 | :---: | --- | --- | :---: | :---: |
 | Logic Gates | Muthukrishnan A. | Classical and Quantum Logic Gates | [ePrint](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/Courses/LogicGates.pdf) 
