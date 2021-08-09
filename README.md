@@ -49,7 +49,7 @@
 | Tacchino F. *et al.* | Variational learning for quantum artificial neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2103.02498.pdf) |
 | Volkoff T. & Holmes Z. & Sornborger A. | Universal Compiling and (No-)Free-Lunch Theorems for Continuous Variable Quantum Learning | 2021 | [Arxiv](https://arxiv.org/pdf/2105.01049.pdf) | 
 | Wei S. *et al.* | A Quantum Convolutional Neural Network on NISQ Devices | 2021 | [Arxiv](https://arxiv.org/pdf/2104.06918.pdf) | 
-
+| Xue S. *et al.* | Variational quantum process tomography | 2021 | [Arxiv](https://arxiv.org/pdf/2108.02351.pdf)
 
 | Abbas A. *et al.* | The power of Quantum Neural Network | 2020 | [ArXiv](https://arxiv.org/abs/2011.00027) |  |  |  | ⭐⭐⭐⭐⭐ |
 | Beer K. *et al.* | Training deep quantum neural networks | 2020 | [ePrint](https://www.nature.com/articles/s41467-020-14454-2.pdf) |
@@ -103,3 +103,8 @@
 | Tag | Authors | Title | Link | Appreciation |
 | :---: | --- | --- | :---: | :---: |
 | Logic Gates | Muthukrishnan A. | Classical and Quantum Logic Gates | [ePrint](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/Courses/LogicGates.pdf) | ⭐⭐⭐⭐⭐ |
+
+## Methodology
+| Authors | Title | Year | Link | Annotation |  Appreciation |
+| --- | --- | :---: | :---: | :---: | :---: |   
+| Keshav S. | How to read a Paper | 2012 | [GitHub]() | - |  ⭐⭐⭐⭐⭐ |
