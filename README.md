@@ -16,7 +16,7 @@
 | --- | --- | :---: | :---: | :---: | :---: | :---: | 
 | Qiskit | Qiskit Textbook (beta) | 2021 | [Online](https://qiskit.org/textbook-beta/) | | |  ⭐⭐⭐⭐⭐ | 
 | Kasirajan V. | Fundamentals of Quantum Computing | 2021 |  [Springer](https://www.springer.com/gp/book/9783030636883) |
-| Santanu G. | Quantum Machine Learning: An Applied Approach | 2021 | [Apress](https://www.apress.com/gp/book/9781484270974) | | [Here](https://github.com/Apress/quantum-machine-learning)|
+| Santanu G. | Quantum Machine Learning: An Applied Approach | 2021 | [Apress](https://www.apress.com/gp/book/9781484270974) | | [Here](https://github.com/Apress/quantum-machine-learning)|
 | Zickert F. | Hands-On Quantum Machine Learning With Python: Volume 1: Get Started | 2021 | [Amazon](https://www.amazon.ca/Hands-Quantum-Machine-Learning-Python/dp/B09786HQSB/ref=asc_df_B09786HQSB/?tag=googleshopc0c-20&linkCode=df0&hvadid=459570636679&hvpos=&hvnetw=g&hvrand=15160076085587581213&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061026&hvtargid=pla-1363920784793&psc=1) | | [Here](https://github.com/quantum-machine-learning/Hands-On-Quantum-Machine-Learning-With-Python-Vol-1/search?l=Jupyter%20Notebook) |
 | Loredo R. | Learn Quantum Computing with Python and IBM Quantum Experience: A hands-on introduction to quantum computing and writing your own quantum programs with Python | 2020 | [Amazon](https://www.amazon.ca/Quantum-Computing-Python-Experience-hands/dp/1838981004) | | [Here](https://github.com/PacktPublishing/Learn-Quantum-Computing-with-Python-and-IBM-Quantum-Experience) | ⭐⭐⭐⭐⭐ |
 | Hidary J. | Quantum Computing: An Applied Approach | 2019 | [Amazon](https://www.amazon.com/Quantum-Computing-Approach-Jack-Hidary-ebook/dp/B07X7NDFLZ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) | | [Here](https://github.com/JackHidary/quantumcomputingbook) | ⭐⭐⭐⭐⭐ |
@@ -41,6 +41,7 @@
 | Highman C. F. & Bedford A. | Quantum Deep Learning: Sampling Neural Nets with a Quantum Annealer | 2021 | [Arxiv](https://arxiv.org/abs/2107.08710v1) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Higham_2021_Quantum_Deep_Learning:Sampling_Neural_Nets_with_a_Quantum_Annealer.pdf) | | | ⭐⭐ |
 | Kwak Y. *et al.* | Quantum Neural Networks: Concepts, Applications and Challenges | 2021 | [Arxiv](https://arxiv.org/pdf/2108.01468.pdf) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Kwak_2021_Quantum_Neural_Networks.pdf) | | | ⭐ |
 | Massoli F. V. *et al.* | A Leap among Entanglement and Neural Networks: A Quantum Survey | 2021 | [Arxiv](https://arxiv.org/abs/2107.03313) | 
+| Medvidovic M. & Carleo G. | Classical Variational simulation of the Quantum Approximate Optimization Algorithm | 2021 | [Arxiv](https://arxiv.org/pdf/2009.01760.pdf) | 
 | Preskill J. | Quantum computing 40 years later | 2021 | [Arxiv](https://arxiv.org/pdf/2106.10522.pdf) | | | | ⭐⭐⭐⭐⭐ |
 | Schuld M. | Supervised quantum machine learning models are kernel methods | 2021 | [Arxiv](https://arxiv.org/abs/2101.11020) | 
 | Qian Y. *et al.* | The dilemma of quantum neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2106.04975.pdf) | 
@@ -48,6 +49,7 @@
 | Tacchino F. *et al.* | Variational learning for quantum artificial neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2103.02498.pdf) |
 | Volkoff T. & Holmes Z. & Sornborger A. | Universal Compiling and (No-)Free-Lunch Theorems for Continuous Variable Quantum Learning | 2021 | [Arxiv](https://arxiv.org/pdf/2105.01049.pdf) | 
 | Wei S. *et al.* | A Quantum Convolutional Neural Network on NISQ Devices | 2021 | [Arxiv](https://arxiv.org/pdf/2104.06918.pdf) | 
+---
 | Abbas A. *et al.* | The power of Quantum Neural Network | 2020 | [ArXiv](https://arxiv.org/abs/2011.00027) |  |  |  | ⭐⭐⭐⭐⭐ |
 | Beer K. *et al.* | Training deep quantum neural networks | 2020 | [ePrint](https://www.nature.com/articles/s41467-020-14454-2.pdf) |
 | Broughton M. *et al.* | TensorFlow Quantum: A Software Framework for Quantum Machine Learning | 2020 | [Arxiv](https://arxiv.org/pdf/2003.02989.pdf) | 
