@@ -107,3 +107,4 @@
 | Authors | Title | Year | Link | Annotation |  Appreciation |
 | --- | --- | :---: | :---: | :---: | :---: |   
 | Keshav S. | How to read a Paper | 2012 | [GitHub]() | - |  ⭐⭐⭐⭐⭐ |
+| Mizgajski J. *et al.* | Return on Investment in Machine Learning: Crossing the Chasm between Academia and Business | 2020 | [Github]() | 
