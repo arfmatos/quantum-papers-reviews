@@ -7,6 +7,7 @@
 - [Quantum Thesis](#quantum-thesis)
 - [Further Resources](#further-resources)
 - [Courses](#courses)
+- [Methodology](#methodology)
 
 
 ## Quantum books 
