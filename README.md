@@ -1,5 +1,13 @@
 # Quantum computing, q. information and q. machine learning books and papers reviews
 
+# Content
+
+- [Quantum Books](#quantum-books)
+- [Quantum Papers](#quantum-papers)
+- [Quantum Thesis](#quantum-thesis)
+- [Further Resources](#further-resources)
+- [Courses](#courses)
+- [Methodology](#methodology)
 
 
 ## Quantum books 
@@ -8,7 +16,9 @@
 | Authors | Title | Year | Link | Review | GitHub | Appreciation |
 | --- | --- | :---: | :---: | :---: | :---: | :---: | 
 | Qiskit | Qiskit Textbook (beta) | 2021 | [Online](https://qiskit.org/textbook-beta/) | | |  ⭐⭐⭐⭐⭐ | 
-| Kasirajan V. | Fundamentals of Quantum Computing | 2021 |  [Springer](https://www.springer.com/gp/book/9783030636883)
+| Kasirajan V. | Fundamentals of Quantum Computing | 2021 |  [Springer](https://www.springer.com/gp/book/9783030636883) |
+| Santanu G. | Quantum Machine Learning: An Applied Approach | 2021 | [Apress](https://www.apress.com/gp/book/9781484270974) | | [Here](https://github.com/Apress/quantum-machine-learning)|
+| Zickert F. | Hands-On Quantum Machine Learning With Python: Volume 1: Get Started | 2021 | [Amazon](https://www.amazon.ca/Hands-Quantum-Machine-Learning-Python/dp/B09786HQSB/ref=asc_df_B09786HQSB/?tag=googleshopc0c-20&linkCode=df0&hvadid=459570636679&hvpos=&hvnetw=g&hvrand=15160076085587581213&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061026&hvtargid=pla-1363920784793&psc=1) | | [Here](https://github.com/quantum-machine-learning/Hands-On-Quantum-Machine-Learning-With-Python-Vol-1/search?l=Jupyter%20Notebook) |
 | Loredo R. | Learn Quantum Computing with Python and IBM Quantum Experience: A hands-on introduction to quantum computing and writing your own quantum programs with Python | 2020 | [Amazon](https://www.amazon.ca/Quantum-Computing-Python-Experience-hands/dp/1838981004) | | [Here](https://github.com/PacktPublishing/Learn-Quantum-Computing-with-Python-and-IBM-Quantum-Experience) | ⭐⭐⭐⭐⭐ |
 | Hidary J. | Quantum Computing: An Applied Approach | 2019 | [Amazon](https://www.amazon.com/Quantum-Computing-Approach-Jack-Hidary-ebook/dp/B07X7NDFLZ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) | | [Here](https://github.com/JackHidary/quantumcomputingbook) | ⭐⭐⭐⭐⭐ |
 | Sutor R. | Dancing with Qubits: How quantum computing works and how it can change the world | 2019 | [Amazon](https://www.amazon.ca/Dancing-Qubits-quantum-computing-change/dp/1838827366) | | | ⭐⭐⭐⭐⭐ |
@@ -23,6 +33,7 @@
 
 | Authors | Title | Year | Link | Annotation | Review | GitHub | Appreciation |
 | --- | --- | :---: | :---: | :---: | :---: | :---: | :---: | 
+| Asfaw A. *et al.* | Building a Quantum Engineering Udergraduate Program | 2021 | [Arxiv](https://arxiv.org/pdf/2108.0131.pdf) | 
 | Ban Y. *et al.* | Developments of Neural Networks in Quantum Physics | 2021 | [Arxiv](https://arxiv.org/pdf/2105.13273.pdf) | 
 | Beer K. *et al.* | Quantum machine learning of graph-structured data | 2021 | [Arxiv](https://arxiv.org/pdf/2103.10837.pdf) | 
 | Bondesan R. & Welling M. | The Hintons in your Neural Network: a Quantum Field Theory View of Deep Learning | 2021 | [Arxiv](https://arxiv.org/abs/2103.04913v1) | 
@@ -31,17 +42,22 @@
 | Gratsea A. & Huembeli P.| Exploring Quantum Perceptron and Quantum Neural Network structures with a teacher-student scheme | 2021 | [Arxiv](https://arxiv.org/pdf/2105.01477.pdf) | 
 | Highman C. F. & Bedford A. | Quantum Deep Learning: Sampling Neural Nets with a Quantum Annealer | 2021 | [Arxiv](https://arxiv.org/abs/2107.08710v1) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Higham_2021_Quantum_Deep_Learning:Sampling_Neural_Nets_with_a_Quantum_Annealer.pdf) | | | ⭐⭐ |
 | Kwak Y. *et al.* | Quantum Neural Networks: Concepts, Applications and Challenges | 2021 | [Arxiv](https://arxiv.org/pdf/2108.01468.pdf) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Kwak_2021_Quantum_Neural_Networks.pdf) | | | ⭐ |
+| Kyriienko O. & Elfving V. E. | Generalized quantum circuit differentiation rules | 2021 | [Arxiv](https://arxiv.org/abs/2108.01218) |
 | Massoli F. V. *et al.* | A Leap among Entanglement and Neural Networks: A Quantum Survey | 2021 | [Arxiv](https://arxiv.org/abs/2107.03313) | 
+| Medvidovic M. & Carleo G. | Classical Variational simulation of the Quantum Approximate Optimization Algorithm | 2021 | [Arxiv](https://arxiv.org/pdf/2009.01760.pdf) | 
 | Preskill J. | Quantum computing 40 years later | 2021 | [Arxiv](https://arxiv.org/pdf/2106.10522.pdf) | | | | ⭐⭐⭐⭐⭐ |
+| Salehi Ö. & Seskir Z. & Tepe I. | A Computer Science-oriented Approach to Introduce Quantum Computing to a New Audience | 2021 | [Arxiv](https://arxiv.org/abs/2010.13552) | 
 | Schuld M. | Supervised quantum machine learning models are kernel methods | 2021 | [Arxiv](https://arxiv.org/abs/2101.11020) | 
 | Qian Y. *et al.* | The dilemma of quantum neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2106.04975.pdf) | 
 | Roget M. & Di Molfetta G. & Kadri H. | Quantum Perceptron Revisited: Computational-Statistical Tradeoffs | 2021 | [Arxiv](https://arxiv.org/pdf/2106.02496.pdf) |
 | Tacchino F. *et al.* | Variational learning for quantum artificial neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2103.02498.pdf) |
 | Volkoff T. & Holmes Z. & Sornborger A. | Universal Compiling and (No-)Free-Lunch Theorems for Continuous Variable Quantum Learning | 2021 | [Arxiv](https://arxiv.org/pdf/2105.01049.pdf) | 
 | Wei S. *et al.* | A Quantum Convolutional Neural Network on NISQ Devices | 2021 | [Arxiv](https://arxiv.org/pdf/2104.06918.pdf) | 
+| Xue S. *et al.* | Variational quantum process tomography | 2021 | [Arxiv](https://arxiv.org/pdf/2108.02351.pdf)
 | Abbas A. *et al.* | The power of Quantum Neural Network | 2020 | [ArXiv](https://arxiv.org/abs/2011.00027) |  |  |  | ⭐⭐⭐⭐⭐ |
 | Beer K. *et al.* | Training deep quantum neural networks | 2020 | [ePrint](https://www.nature.com/articles/s41467-020-14454-2.pdf) |
 | Broughton M. *et al.* | TensorFlow Quantum: A Software Framework for Quantum Machine Learning | 2020 | [Arxiv](https://arxiv.org/pdf/2003.02989.pdf) | 
+| Egger D. J. & Marecek J. & Woerner S. | Warm-starting quantum optimization | 2020 | [Arxiv](https://arxiv.org/pdf/2009.10095.pdf)
 | Garg S. & Ramakrishnan G. | Advances in Quantum Deep Learning: An Overview | 2020 | [Arxiv](https://arxiv.org/pdf/2005.04316.pdf) |
 | Jiang J. *et al.* | Generalization Study of Quantum Neural Network | 2020 | [Arxiv](https://arxiv.org/pdf/2006.02388.pdf) |
 | Kulkarni V. & Nulkarni M. & Pant A. | Quantum Computing Methods for Supervised Learning | 2020 | [Arxiv](https://arxiv.org/pdf/2006.12025.pdf) |
@@ -53,15 +69,18 @@
 | Zhang Y. & Ni Q.| Recent Advances in Quantum Machine Learning | 2020 | [ePrint](https://eprints.lancs.ac.uk/id/eprint/154554/1/QML_survey.pdf) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Zhang_Ni_2020_Recent_Advances_in_Quantum_Machine_Learning.pdf) | | | ⭐⭐⭐⭐⭐ | 
 | Fastovets D. V. *et al.* | Machine learning methods in quantum computing theory | 2019 | [Arxiv](https://arxiv.org/pdf/1906.10175.pdf) |
 | Killoran N. *et al.* | Continuous-variable quantum neural networks | 2019 | [ePrint](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.1.033063) |
+| Krantz P. *et al.* | A Quantum Engineer's Guide to Superconducting Qubits | 2019 | [Arxiv](https://arxiv.org/pdf/1904.06560.pdf) |
 | Rebentrost P. *et al.* | Quantum gradient descent and Newton’s method for constrained polynomial optimization | 2019 | [ePrint](https://iopscience.iop.org/article/10.1088/1367-2630/ab2a9e/pdf) |
 | Tacchino F. *et al.* | An artificial neuron implemented on an actual quantum processor | 2019 | [ePrint](https://www.nature.com/articles/s41534-019-0140-4.pdf) | 
 | Bergholm V. *et al.* | PennyLane: Automatic differentiation of hybrid quantum-classical computations | 2018 | [Arxiv](https://arxiv.org/abs/1811.04968) |
 | Jeswal S. K. & Chakraverty S. | Recent Developments and Applications in Quantum Neural Network: A Review | 2018 | [Arxiv](https://www.researchgate.net/profile/Sumit_Jeswal/publication/324936022_Recent_Developments_and_Applications_in_Quantum_Neural_Network_A_Review/links/5c1f8b6c458515a4c7f395ac/Recent-Developments-and-Applications-in-Quantum-Neural-Network-A-Review.pdf) |
 | Kopczyk D. | Quantum machine learning for data scientists | 2018 | [Arxiv](https://arxiv.org/pdf/1804.10068.pdf) |
+| Preskill J. | Quantum Computing in the NISQ era and beyond | 2018 | [Arxiv](https://arxiv.org/abs/1801.00862) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Preskill_2018_NISQ.pdf)| | | ⭐⭐⭐⭐⭐ |
 | Schuld M. & Killoran N. | Quantum machine learning in feature Hilbert spaces | 2018 | [Arxiv](https://arxiv.org/pdf/1803.07128.pdf) |
 | Ciliberto C. *et al.*| Quantum machine learning: a classical perspective | 2017 | [Arxiv](https://arxiv.org/pdf/1707.08561v2.pdf) |
 | Biamonte J. *et al.* | Quantum Machine Learning | 2016 | [Arxiv](https://arxiv.org/pdf/1611.09347.pdf) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Biamonte_et_al._2016_quantum_machine_learning.pdf) | | | ⭐⭐⭐⭐⭐ |
 | Aaronson S. | Quantum Machine Learning Algorithms: Read the Fine Print | 2015 | [ePrint](https://www.scottaaronson.com/papers/qml.pdf) |
+| Farhi E. & Goldstone J. | A Quantum Approximate Optimization Algorithm | 2014 [Arxiv](https://arxiv.org/pdf/1411.4028.pdf) |
 | Hao Low G. & Yoder T. J. & Chuang I. | Quantum Inference on Bayesian Networks | 2014 | [Arxiv](https://arxiv.org/pdf/1402.7359.pdf) |
 | Schuld M. & Sinayskiy I. & Petruccione F. | Simulating a perceptron on a quantum computer | 2014 | [Arxiv](https://arxiv.org/abs/1412.3635) |
 | Schuld M. & Sinayskiy I. & Petruccione F. | The quest for a Quantum Neural Network | 2014 | [Arxiv](https://arxiv.org/pdf/1408.7005.pdf) | 
@@ -86,3 +105,15 @@
 | GitHub | fvmassoli | Survey Quantum Computation | [Here](https://github.com/fvmassoli/survey-quantum-computation/blob/master/papersSortedByTopics.md) | ⭐⭐⭐⭐⭐ |
 | GitHub | krishnakumarsekar | Awesome Quantum Machine Learning | [Here](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) | ⭐⭐⭐⭐⭐ |
 | GitHub | artix41 | Awesome Quantum ML | [Here](https://github.com/artix41/awesome-quantum-ml) | ⭐⭐⭐⭐⭐ |
+
+## Courses 
+| Tag | Authors | Title | Link | Appreciation |
+| :---: | --- | --- | :---: | :---: |
+| Logic Gates | Muthukrishnan A. | Classical and Quantum Logic Gates | [ePrint](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/Courses/LogicGates.pdf) | ⭐⭐⭐⭐⭐ |
+
+## Methodology
+| Authors | Title | Year | Link | Annotation |  Appreciation |
+| --- | --- | :---: | :---: | :---: | :---: |   
+| Mizgajski J. *et al.* | Return on Investment in Machine Learning: Crossing the Chasm between Academia and Business | 2020 | [Github]() | 
+| Wohlin C. | Guidelines for Snowballing in Systematic Literature Studies and a Replication in Software Engineering | 2014 | [GitHub]() | 
+| Keshav S. | How to read a Paper | 2012 | [GitHub]() | - |  ⭐⭐⭐⭐⭐ |
