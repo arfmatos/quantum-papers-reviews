@@ -75,7 +75,7 @@
 | Bergholm V. *et al.* | PennyLane: Automatic differentiation of hybrid quantum-classical computations | 2018 | [Arxiv](https://arxiv.org/abs/1811.04968) |
 | Jeswal S. K. & Chakraverty S. | Recent Developments and Applications in Quantum Neural Network: A Review | 2018 | [Arxiv](https://www.researchgate.net/profile/Sumit_Jeswal/publication/324936022_Recent_Developments_and_Applications_in_Quantum_Neural_Network_A_Review/links/5c1f8b6c458515a4c7f395ac/Recent-Developments-and-Applications-in-Quantum-Neural-Network-A-Review.pdf) |
 | Kopczyk D. | Quantum machine learning for data scientists | 2018 | [Arxiv](https://arxiv.org/pdf/1804.10068.pdf) |
-| Preskill J. | Quantum Computing in the NISQ era and beyond | 2018 [Arxiv](https://arxiv.org/abs/1801.00862) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Preskill_2018_NISQ.pdf)| | | ⭐⭐⭐⭐⭐ |
+| Preskill J. | Quantum Computing in the NISQ era and beyond | 2018 | [Arxiv](https://arxiv.org/abs/1801.00862) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Preskill_2018_NISQ.pdf)| | | ⭐⭐⭐⭐⭐ |
 | Schuld M. & Killoran N. | Quantum machine learning in feature Hilbert spaces | 2018 | [Arxiv](https://arxiv.org/pdf/1803.07128.pdf) |
 | Ciliberto C. *et al.*| Quantum machine learning: a classical perspective | 2017 | [Arxiv](https://arxiv.org/pdf/1707.08561v2.pdf) |
 | Biamonte J. *et al.* | Quantum Machine Learning | 2016 | [Arxiv](https://arxiv.org/pdf/1611.09347.pdf) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Biamonte_et_al._2016_quantum_machine_learning.pdf) | | | ⭐⭐⭐⭐⭐ |
