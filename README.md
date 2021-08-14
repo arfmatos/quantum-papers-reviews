@@ -8,6 +8,8 @@
 - [Further Resources](#further-resources)
 - [Courses](#courses)
 - [Methodology](#methodology)
+- [Errata](#errata)
+- [Citation](#citation)
 
 
 ## Quantum books 
@@ -117,3 +119,16 @@
 | Mizgajski J. *et al.* | Return on Investment in Machine Learning: Crossing the Chasm between Academia and Business | 2020 | [Github]() | 
 | Wohlin C. | Guidelines for Snowballing in Systematic Literature Studies and a Replication in Software Engineering | 2014 | [GitHub]() | 
 | Keshav S. | How to read a Paper | 2012 | [GitHub]() | - |  ⭐⭐⭐⭐⭐ |
+
+## Errata
+
+Undoubtedly there is information that is incorrect here. Please open an Issue and point it out.
+
+## Citation
+
+@misc{pere-quantum-reviews,
+  author = {Pere, Christophe},
+  url = {https://github.com/Christophe-pere/quantum-papers-reviews},
+  year = {2021}
+}
+For the notes above, I've linked the original papers.
