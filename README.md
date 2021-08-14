@@ -126,9 +126,10 @@ Undoubtedly there is information that is incorrect here. Please open an Issue an
 
 ## Citation
 
-@misc{pere-quantum-reviews,
+```@misc{pere-quantum-reviews,
   author = {Pere, Christophe},
   url = {https://github.com/Christophe-pere/quantum-papers-reviews},
   year = {2021}
 }
 For the notes above, I've linked the original papers.
+```
