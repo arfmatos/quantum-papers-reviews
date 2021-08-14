@@ -80,7 +80,7 @@
 | Ciliberto C. *et al.*| Quantum machine learning: a classical perspective | 2017 | [Arxiv](https://arxiv.org/pdf/1707.08561v2.pdf) |
 | Biamonte J. *et al.* | Quantum Machine Learning | 2016 | [Arxiv](https://arxiv.org/pdf/1611.09347.pdf) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Biamonte_et_al._2016_quantum_machine_learning.pdf) | | | ⭐⭐⭐⭐⭐ |
 | Aaronson S. | Quantum Machine Learning Algorithms: Read the Fine Print | 2015 | [ePrint](https://www.scottaaronson.com/papers/qml.pdf) |
-| Farhi E. & Goldstone J. | A Quantum Approximate Optimization Algorithm | 2014 [Arxiv](https://arxiv.org/pdf/1411.4028.pdf) |
+| Farhi E. & Goldstone J. | A Quantum Approximate Optimization Algorithm | 2014 | [Arxiv](https://arxiv.org/pdf/1411.4028.pdf) |
 | Hao Low G. & Yoder T. J. & Chuang I. | Quantum Inference on Bayesian Networks | 2014 | [Arxiv](https://arxiv.org/pdf/1402.7359.pdf) |
 | Schuld M. & Sinayskiy I. & Petruccione F. | Simulating a perceptron on a quantum computer | 2014 | [Arxiv](https://arxiv.org/abs/1412.3635) |
 | Schuld M. & Sinayskiy I. & Petruccione F. | The quest for a Quantum Neural Network | 2014 | [Arxiv](https://arxiv.org/pdf/1408.7005.pdf) | 
