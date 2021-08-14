@@ -127,7 +127,7 @@ Undoubtedly there is information that is incorrect here. Please open an Issue an
 ## Citation
 
 ```python
-@misc{pere-quantum-reviews,
+@misc{pere-quantum-papers-reviews,
   author = {Pere, Christophe},
   url = {https://github.com/Christophe-pere/quantum-papers-reviews},
   year = {2021}
