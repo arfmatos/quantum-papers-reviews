@@ -4,10 +4,8 @@
 The authors made a literature review on VQA and the applications.\
 They provide informations about the antzats and optimizers.\
 They provide lots of informations about the VQA family\
-
 \
 \
-
 **Research Question**\
 \
 \
