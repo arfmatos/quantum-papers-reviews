@@ -1,5 +1,6 @@
 [Cerezo et al. 2021 Variational Quantum Algorithms](https://www.arxiv.org/pdf/2012.09265.pdf) 
 
+
 The authors made a literature review on VQA and the applications.
 They provide informations about the antzats and optimizers.
 They provide lots of informations about the VQA family
@@ -18,7 +19,7 @@ They provide lots of informations about the VQA family
 → noise ⇒ error mitigation technique
 → number of Qubits and decoherence
 → barren plateau ⇒ vanishing gradient
--> trainability, accuracy, and efficiency
+→ trainability, accuracy, and efficiency
 → NISQ system are prone to error and have a limited decoherent time.
 → Cost function non-convex and can be complicated for the convergence [83]
 
