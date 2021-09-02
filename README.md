@@ -39,7 +39,7 @@
 | Ban Y. *et al.* | Developments of Neural Networks in Quantum Physics | 2021 | [Arxiv](https://arxiv.org/pdf/2105.13273.pdf) | 
 | Beer K. *et al.* | Quantum machine learning of graph-structured data | 2021 | [Arxiv](https://arxiv.org/pdf/2103.10837.pdf) | 
 | Bondesan R. & Welling M. | The Hintons in your Neural Network: a Quantum Field Theory View of Deep Learning | 2021 | [Arxiv](https://arxiv.org/abs/2103.04913v1) | 
-| Cerezo M. *et al.* | | 2021 | [Arxiv](https://arxiv.org/abs/2012.09265) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Cerezo_et_al_2021_Varational_Quantum_Algorithms.pdf) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/notes/Cerezo_2021.md) | | ⭐⭐⭐⭐⭐ |
+| Cerezo M. *et al.* | Variational Quantums Algorithms | 2021 | [Arxiv](https://arxiv.org/abs/2012.09265) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/articles/Cerezo_et_al_2021_Varational_Quantum_Algorithms.pdf) | [Here](https://github.com/Christophe-pere/quantum-papers-reviews/blob/main/notes/Cerezo_2021.md) | | ⭐⭐⭐⭐⭐ |
 | Coecke B. *et al.* | How to make qubits speak | 2021 | [Arxiv](https://arxiv.org/abs/2107.06776) | 
 | Ezhov A. A. | On quantum neural networks | 2021 | [Arxiv](https://arxiv.org/pdf/2104.07106.pdf) | 
 | Gratsea A. & Huembeli P.| Exploring Quantum Perceptron and Quantum Neural Network structures with a teacher-student scheme | 2021 | [Arxiv](https://arxiv.org/pdf/2105.01477.pdf) | 
